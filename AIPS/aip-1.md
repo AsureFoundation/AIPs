@@ -14,4 +14,4 @@ AIP stands for Asure Improvement Proposal. An AIP is a design document providing
 or describing a new feature for Asure or its processes or environment. The AIP should provide a concise technical and business specification of the feature and a rationale for the feature. 
 The AIP author is responsible for building consensus within the community and documenting dissenting opinions.
 
-We are guided by ethereum and refer to further orientation [EIPs repository : EIP-1](https://github.com/ethereum/EIPs/eip-1.md).
+We are guided by ethereum and refer to further orientation [EIPs repository : EIP-1](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md).
